@@ -1,5 +1,4 @@
 
-
 from kafka import KafkaConsumer
 import json
 import logging
