@@ -30,7 +30,7 @@ Below is the complete flow of how BazaarStream processes, enriches, stores, and 
 - Neon Database (Serverless Postgres) as the unified data store  
 - ML-powered recommendation API  
 - Production-grade scalability and fault tolerance  
-- Dashboard-ready tables updated in real-time  
+- Dashboard-ready tables updated in real time  
 
 ---
 
